@@ -99,7 +99,11 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>330 307 620 392 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
+<<<<<<< HEAD
 	<string>159 161 1016 512 0 0 1280 800 </string>
+=======
+	<string>159 278 918 452 0 0 1280 800 </string>
+>>>>>>> 28ee75958be72b0542b2dd63bacfa142a1b4ddfb
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1280 800 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
@@ -556,7 +560,7 @@
 			<key>Silence Bell</key>
 			<false/>
 			<key>Space</key>
-			<integer>0</integer>
+			<integer>-1</integer>
 			<key>Sync Title</key>
 			<false/>
 			<key>Tags</key>
@@ -1129,7 +1133,11 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
+<<<<<<< HEAD
 	<date>2017-08-09T16:40:45Z</date>
+=======
+	<date>2017-07-17T00:37:57Z</date>
+>>>>>>> 28ee75958be72b0542b2dd63bacfa142a1b4ddfb
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
