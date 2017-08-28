@@ -51,7 +51,7 @@
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Documents/Dev/iTerm</string>
+	<string>~/Desktop</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSNavPanelExpandedSizeForSaveMode</key>
@@ -99,15 +99,11 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>330 307 620 392 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-<<<<<<< HEAD
-	<string>159 161 1016 512 0 0 1280 800 </string>
-=======
-	<string>159 278 918 452 0 0 1280 800 </string>
->>>>>>> 28ee75958be72b0542b2dd63bacfa142a1b4ddfb
+	<string>211 408 918 381 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1280 800 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>0 4 1072 796 0 0 1280 800 </string>
+	<string>0 374 656 426 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>608 336 664 464 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -560,7 +556,7 @@
 			<key>Silence Bell</key>
 			<false/>
 			<key>Space</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 			<key>Sync Title</key>
 			<false/>
 			<key>Tags</key>
@@ -1133,11 +1129,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-<<<<<<< HEAD
-	<date>2017-08-09T16:40:45Z</date>
-=======
-	<date>2017-07-17T00:37:57Z</date>
->>>>>>> 28ee75958be72b0542b2dd63bacfa142a1b4ddfb
+	<date>2017-08-26T18:22:30Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1161,7 +1153,7 @@
 	<key>WindowNumber</key>
 	<false/>
 	<key>WordCharacters</key>
-	<string>/-+\~_.</string>
+	<string></string>
 	<key>findIgnoreCase_iTerm</key>
 	<true/>
 	<key>findMode_iTerm</key>
