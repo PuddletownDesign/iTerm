@@ -1123,7 +1123,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/Brent/Documents/Dev/iTerm</string>
+	<string>/Users/Brent/Dev/Config/iTerm</string>
 	<key>PromptOnQuit</key>
 	<false/>
 	<key>SUEnableAutomaticChecks</key>

@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd ~/Documents/Dev/iTerm
+cd ~/Dev/Config/iTerm
 git pull origin mac
