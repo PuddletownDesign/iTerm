@@ -55,7 +55,7 @@
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Desktop</string>
+	<string>~/Dev/Config/iTerm</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSNavPanelExpandedSizeForSaveMode</key>
@@ -103,13 +103,13 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>330 307 620 392 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>211 408 918 381 0 0 1280 800 </string>
+	<string>352 106 918 512 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1280 800 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>0 28 808 772 0 0 1280 800 </string>
+	<string>624 148 656 426 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>608 374 656 426 0 0 1280 800 </string>
+	<string>624 374 656 426 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>181 343 656 426 0 0 1280 800 </string>
 	<key>New Bookmarks</key>
@@ -953,7 +953,7 @@
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
-			<string>fortune | cowsay</string>
+			<string>archey</string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -1135,7 +1135,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-09-05T22:01:00Z</date>
+	<date>2018-03-16T22:55:16Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
