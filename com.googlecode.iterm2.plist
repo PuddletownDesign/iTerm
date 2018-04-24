@@ -103,15 +103,15 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>330 307 620 392 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>352 106 918 512 0 0 1280 800 </string>
+	<string>352 124 918 512 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1280 800 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>624 148 656 426 0 0 1280 800 </string>
+	<string>0 4 1280 796 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>624 374 656 426 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>181 343 656 426 0 0 1280 800 </string>
+	<string>5 21 1272 768 0 0 1280 800 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -475,7 +475,7 @@
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
-			<string>fortune | cowsay</string>
+			<string>archey</string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -953,7 +953,7 @@
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
-			<string>archey</string>
+			<string>fortune | cowsay</string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -1135,7 +1135,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-03-16T22:55:16Z</date>
+	<date>2018-04-24T11:04:59Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
